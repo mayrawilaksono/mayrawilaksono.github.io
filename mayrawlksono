@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mayra Putri Wilaksono</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <nav>
+        <div class="wrapper">
+            <div class="logo"><a href=' '>Mayra Putri Wilaksono.</a></div>
+            <div class="Menu">
+                <ul>
+                    <li><a href="#Home">Home</a></li>
+                    <li><a href="#About Me">About Me</a></li>
+                    <li><a href="#Portofolio">Portofolio</a></li>
+                    <li><a href="Contact" class="tbl-biru">Contact</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <div class="wrapper">
+        <!-- untuk home -->
+        <section id="home">
+            <img src="./img/myr1.jpg" width="200px" alt="gambar saya"></img>
+            <div class="kolom">
+                <p class="deskripsi">Hallo</p>
+                <p>Perkenalkan Nama saya Mayra Putri Wilaksono</p>
+                <p>Saya berasal dari sekolah SMK PGRI 13 Surabaya dan team Intern Seaqis Bandung.</p>
+                <h1>Never stop being a good people,</h1>
+                <h2>because of bad people</h2>
+                <p><a href="" class="tbl-pink">Pelajari Lebih Lanjut</a></p>
+            </div>
+        </section>
+
+        <!-- untuk About Me-->
+        <section id="About Me">
+            <div class="kolom 1">
+                <p class="deskrips">You can see my portofolio</p>
+            </section>
+            </div>
+            <section>
+            <div>
+            <img src="./img/Point of Purchase depan.png" width="200px" alt=""></img>
+            <img src="./img/Point of Purchase belakang.png" width="200px" alt=""></img>
+            <img src="./img/brosur depan.png" width="200px" alt=""></img>
+            <img src="./img/brosur belakang.png" width="200px" alt=""></img>
+            <img src="./img/poster.png" width="200px" alt=""></img>
+            <img src="./img/1.png" width="200px" alt=""></img>
+            <img src="./img/2.png" width="200px" alt=""></img>
+            <img src="./img/3.png" width="200px" alt=""></img>
+            <img src="./img/4.png" width="200px" alt=""></img>
+            <img src="./img/5.png" width="200px" alt=""></img>
+            <img src="./img/6.png" width="200px" alt=""></img>
+            <img src="./img/7.png" width="200px" alt=""></img>
+            <img src="./img/8.png" width="200px" alt=""></img>
+            <img src="./img/9.png" width="200px" alt=""></img>
+            <img src="./img/10.png" width="200px" alt=""></img>
+            <img src="./img/11.png" width="200px" alt=""></img>
+            <img src="./img/12.png" width="200px" alt=""></img>
+            <img src="./img/13.png" width="200px" alt=""></img>
+            <img src="./img/14.png" width="200px" alt=""></img>
+        </div>
+        </section>
+    </div>
+</body>
+</html>
